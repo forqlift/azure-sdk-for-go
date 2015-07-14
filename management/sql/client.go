@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Azure/azure-sdk-for-go/management"
+	"github.com/forqlift/azure-sdk-for-go/management"
 )
 
 // Definitions of numerous constants representing API endpoints.

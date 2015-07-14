@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	vm "github.com/Azure/azure-sdk-for-go/management/virtualmachine"
+	vm "github.com/forqlift/azure-sdk-for-go/management/virtualmachine"
 )
 
 const (

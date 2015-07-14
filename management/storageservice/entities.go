@@ -3,7 +3,7 @@ package storageservice
 import (
 	"encoding/xml"
 
-	"github.com/Azure/azure-sdk-for-go/management"
+	"github.com/forqlift/azure-sdk-for-go/management"
 )
 
 // StorageServiceClient is used to perform operations on Azure Storage

@@ -3,8 +3,8 @@ package vmutils
 import (
 	"fmt"
 
-	vm "github.com/Azure/azure-sdk-for-go/management/virtualmachine"
-	vmdisk "github.com/Azure/azure-sdk-for-go/management/virtualmachinedisk"
+	vm "github.com/forqlift/azure-sdk-for-go/management/virtualmachine"
+	vmdisk "github.com/forqlift/azure-sdk-for-go/management/virtualmachinedisk"
 )
 
 // ConfigureWithNewDataDisk adds configuration for a new (empty) data disk

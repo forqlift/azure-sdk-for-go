@@ -3,7 +3,7 @@ package vmutils
 import (
 	"fmt"
 
-	vm "github.com/Azure/azure-sdk-for-go/management/virtualmachine"
+	vm "github.com/forqlift/azure-sdk-for-go/management/virtualmachine"
 )
 
 // ConfigureWithPublicSSH adds configuration exposing port 22 externally
